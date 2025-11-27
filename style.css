@@ -8,7 +8,7 @@ html {
     background-image: -moz-linear-gradient(left, green, white);
     background-image: -o-linear-gradient(left, green, white);
     background-image: -ms-linear-gradient(left, green, white);
-    background-image: linear-gradient(left, green, white);
+
 }
 .guess-cont {
     text-align: center;
