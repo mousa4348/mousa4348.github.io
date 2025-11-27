@@ -3,6 +3,13 @@ h1 {
     text-decoration: solid;
 }
 
+html {
+    background-image: -webkit-linear-gradient(left, green, white);
+    background-image: -moz-linear-gradient(left, green, white);
+    background-image: -o-linear-gradient(left, green, white);
+    background-image: -ms-linear-gradient(left, green, white);
+    background-image: linear-gradient(left, green, white);
+}
 .guess-cont {
     text-align: center;
 }
@@ -20,7 +27,7 @@ h1 {
     align-items: center;
     font-size: 2rem;
     margin-top: 20px;
-    color: green;
+    color: blue;
 
 }
 
