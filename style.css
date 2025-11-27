@@ -4,10 +4,10 @@ h1 {
 }
 
 html {
-    background-image: -webkit-linear-gradient(left, green, white);
-    background-image: -moz-linear-gradient(left, green, white);
-    background-image: -o-linear-gradient(left, green, white);
-    background-image: -ms-linear-gradient(left, green, white);
+    background-image: -webkit-linear-gradient(top, green, white);
+    background-image: -moz-linear-gradient(top, green, white);
+    background-image: -o-linear-gradient(top, green, white);
+    background-image: -ms-linear-gradient(top, green, white);
 
 }
 .guess-cont {
@@ -82,3 +82,4 @@ body {
     justify-content: center;
     min-height: 100vh;
 }
+
